@@ -6,6 +6,8 @@ public class OtraClase {
 		
 	}
 	public void chau(){
+	}
+	public void hola_amigo(char c){
 		
 	}
 }

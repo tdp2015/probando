@@ -1,7 +1,8 @@
 
-public class OtraClase {
 
-	public void chau() {
+public class OtraClase {
+	
+	public void hola(){
 		
 	}
 }

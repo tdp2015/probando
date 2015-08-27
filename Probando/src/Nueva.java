@@ -1,4 +1,4 @@
 
 public class Nueva {
-	public void metodo(){}
+	public void metodo2(){}
 }

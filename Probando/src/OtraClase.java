@@ -1,7 +1,10 @@
 
 public class OtraClase {
 	
-	public void hola(){
+	public void hola(int id){
+		
+	}
+	public void chau(){
 		
 	}
 }
